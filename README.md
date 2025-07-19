@@ -6,7 +6,9 @@ This project develops a full-stack mini-application for uploading receipts and b
 
 The application follows a modular architecture to handle various stages of receipt processing. The core components include a backend for data handling and processing, an OCR pipeline for text extraction, a database for persistent storage, and a Streamlit dashboard for user interaction and visualization.
 
-![Full-Stack Receipt Processor Architecture](image.jpg)
+![Full-Stack Receipt Processor Architecture]
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/f5aa7f7a-fed8-4a76-954b-b424f54cacbd" />
+
 
 [cite_start]*Figure: High-level architecture diagram of the Full-Stack Receipt Processor.* [cite: 1]
 
