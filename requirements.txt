@@ -1,0 +1,9 @@
+fastapi[all]
+uvicorn
+pydantic
+SQLAlchemy
+Pillow
+PyPDF2 # Or pdfminer.six if preferred
+pytesseract # Required for OCR (Tesseract also needs to be installed on your OS)
+numpy
+pandas
