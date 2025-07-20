@@ -1,4 +1,8 @@
 # Full-Stack Receipt Processor
+<img width="2812" height="1496" alt="Screenshot 2025-07-20 005850" src="https://github.com/user-attachments/assets/ac79e2b1-de08-464e-95f6-140c474133e3" />
+
+# User Interface Image
+
 
 This project develops a full-stack mini-application for uploading receipts and bills, extracting structured data using rule-based logic and OCR, and presenting summarized insights through an interactive dashboard. The backend is built with FastAPI, using SQLite for data storage, and the frontend dashboard is powered by Streamlit.
 
